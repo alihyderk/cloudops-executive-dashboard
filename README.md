@@ -4,13 +4,6 @@
 **Ali Hyder** | M.A. Data & Discourse Studies, TU Darmstadt  
 📧 alihyderk26@gmail.com
 
----
-
-## 🔗 Live Dashboard
-
-👉 [View Interactive Dashboard https://github.com/alihyderk/cloudops-executive-dashboard/tree/main
-
----
 
 ## 📌 About This Project
 
